@@ -18,7 +18,7 @@ window.addEventListener('message', function (event) {
     drift('setContext', message.data)
     drift('config', { iframeMode: true })
     drift('page')
-    drift.init('9rsb4kszx7th') // TODO your Drift embed ID goes here
+    drift.init(process.env.DRIFT_ID) // TODO your Drift embed ID goes here
   }
   
   // acknowledge iframe resize / reposition is complete
