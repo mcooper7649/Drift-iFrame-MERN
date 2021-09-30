@@ -11,6 +11,10 @@ DM Michael Cooper on slack if you need a better explanation. I'm happy to help.
 
 We will need to npm i and npm start from both CLIENT and SERVER to run our local instance.
 
+## iframe install steps (already done you can verify)
+[iFrame-DOC](https://devdocs.drift.com/docs/securing-drift-on-your-site-with-an-iframe)
+
+
 
 
 
