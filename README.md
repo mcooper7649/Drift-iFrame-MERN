@@ -1,6 +1,19 @@
 # Memories
 
 
+## DRIFT Information
+
+Prerequisites - Create .env file in the server folder root AND the client folder root. update your process.env entries to match the entries for our DRIFT_ID (client) AND MONGO_CONNECT (server).
+
+Once you've passed along client ID info and the Server connection info our local instance should run and we can see our Drift iframe instance running.
+
+DM Michael Cooper on slack if you need a better explanation. I'm happy to help.
+
+We will need to npm i and npm start from both CLIENT and SERVER to run our local instance.
+
+
+
+
 ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
 
 ## Introduction
