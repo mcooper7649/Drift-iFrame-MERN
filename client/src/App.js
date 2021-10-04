@@ -40,7 +40,6 @@ const App = () => {
           </Grid>
         </Container>
       </Grow>
-      <iframe id="drift-iframe" title="test" src="iframe.html" />
     </Container>
     
   );
